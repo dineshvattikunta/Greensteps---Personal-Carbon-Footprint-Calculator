@@ -1,73 +1,47 @@
-# Welcome to your Lovable project
+# GreenSteps – Personal Carbon Footprint Calculator
 
-## Project info
+## 🌱 Project Overview
 
-**URL**: https://lovable.dev/projects/387e537f-4bff-414e-85a8-2d7eca274d8b
+**GreenSteps** is a web-based application designed to help individuals assess and reduce their daily carbon footprint. It takes into account various lifestyle factors such as:
 
-## How can I edit this code?
+- Travel and transportation
+- Electricity usage
+- Diet and food habits
+- Water consumption
 
-There are several ways of editing your application.
+The tool provides a detailed breakdown of carbon emissions and presents the data through clear and interactive charts. It also offers actionable suggestions and eco-friendly habits to empower users in minimizing their environmental impact.
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/387e537f-4bff-414e-85a8-2d7eca274d8b) and start prompting.
+## 📦 Tech Stack
 
-Changes made via Lovable will be committed automatically to this repo.
+- **Frontend**: React, Tailwind CSS, Shadcn/UI, TypeScript
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Build Tool**: Vite
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🚀 Getting Started
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### Prerequisites
 
-Follow these steps:
+Make sure you have the following installed:
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+- Node.js
+- npm (Node Package Manager)
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### Installation
 
-# Step 3: Install the necessary dependencies.
-npm i
+```bash
+# Clone the repository
+git clone <YOUR_GIT_REPOSITORY_URL>
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Navigate into the project directory
+cd greensteps
+
+# Install dependencies
+npm install
+
+# Start the development server
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/387e537f-4bff-414e-85a8-2d7eca274d8b) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
