@@ -1,0 +1,35 @@
+[
+  {
+    "_id": "64d1234567abc1234def1001",
+    "user": "Ravi Kumar",
+    "email": "ravi.kumar@example.com",
+    "travel": 10.2,
+    "electricity": 6.5,
+    "diet": 4.3,
+    "water": 3.1,
+    "totalCarbonFootprint": 24.1,
+    "date": "2025-07-30T18:00:00.000Z"
+  },
+  {
+    "_id": "64d1234567abc1234def1002",
+    "user": "Sita Reddy",
+    "email": "sita.reddy@example.com",
+    "travel": 8.4,
+    "electricity": 5.6,
+    "diet": 3.9,
+    "water": 2.2,
+    "totalCarbonFootprint": 20.1,
+    "date": "2025-07-30T18:00:00.000Z"
+  },
+  {
+    "_id": "64d1234567abc1234def1003",
+    "user": "Venkat Sai",
+    "email": "venkat.sai@example.com",
+    "travel": 12.0,
+    "electricity": 7.1,
+    "diet": 5.0,
+    "water": 4.0,
+    "totalCarbonFootprint": 28.1,
+    "date": "2025-07-30T18:00:00.000Z"
+  }
+]
