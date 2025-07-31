@@ -30,6 +30,16 @@ Make sure you have the following installed:
 
 - Node.js
 - npm (Node Package Manager)
+- ## 🗃️ MongoDB Integration (Simulated)
+
+Due to time constraints, MongoDB is simulated using:
+
+- `mock_db.json` — sample data simulating MongoDB documents with users like Ravi, Sita, and Venkat.
+- `models/footprintData.js` — Mongoose schema representing carbon footprint structure.
+- `api-example.js` — a simple mock API using Express.js to serve JSON data.
+
+This simulation helps visualize how real backend integration would work in future updates.
+
 
 ### Installation
 
